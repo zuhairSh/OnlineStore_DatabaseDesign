@@ -30,7 +30,7 @@ The logical model focusing on entities, attributes, and business rules.
 ## 🛠️ 2. Relational Schema
 The transition from logical design to relational structure.
 
-![Relational Schema](OnlineStore_Relational_Schema.png)
+![Relational Schema](OnlineStore_Relational_Schema.drawio.png)
 
 ### 🔑 Key Implementation Details:
 * **Order Integrity:** A robust link between `Orders` and `OrderDetails` ensures accurate tracking of items purchased within a single transaction.
@@ -43,7 +43,7 @@ The transition from logical design to relational structure.
 Access the source files in this repository:
 
 * **ER Diagram File:** [ERD](Project_5_OnlineStore_ERD.png)
-* **Relational Schema File:** [Relational Schema](OnlineStore_Relational_Schema.png)
+* **Relational Schema File:** [Relational Schema](OnlineStore_Relational_Schema.drawio.png)
 * **PDF : ** [OnlineStore_Database Design]
 ---
 
