@@ -44,7 +44,7 @@ Access the source files in this repository:
 
 * **ER Diagram File:** [ERD](Project_5_OnlineStore_ERD.png)
 * **Relational Schema File:** [Relational Schema](OnlineStore_Relational_Schema.drawio.png)
-* **PDF : ** [OnlineStore_Database Design]
+* **PDF File:** [Relational Schema & ERD](OnlineStore_DatabaseDesign.pdf)
 ---
 
 ## 🚀 Tools Used
